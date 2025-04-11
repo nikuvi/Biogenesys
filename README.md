@@ -36,9 +36,8 @@
   <ul>
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   </ul>
-    <a **Seaborn**>
-    <a **Matplotlib**>
 </details>
 
 ## 📁Archivos
@@ -46,5 +45,5 @@
 - **DA_viviant_nicole_informePIM4.pdf**: Archivo pdf con el informe sobre el proyecto de Adventures Work Cycles donde explico los pasos que tome durante el procesamiento de los datos y dashboard.
 - **DatosFinalesFiltrado.csv** Archivo csv con los datos limpios usados en el dashboard.
 - **PIDA_M4_Nicole_Viviant.ipynb**: Archivo Jupyter Notebook donde realice todo el EDA y ETL del proyecto.
-- **ne_110m_admin_0_countries.zip**: Archivo zip necesario usado con Seaborn para graficos donde se utilizan coordenadas.
+- **ne_110m_admin_0_countries.zip**: Archivo zip necesario usado con Geopandas para graficos donde se utilizan coordenadas.
 - **Imagenes**: Carpeta donde guardo todas las imagenes usadas para la realización del dashboard.
