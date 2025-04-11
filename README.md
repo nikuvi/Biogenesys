@@ -1,4 +1,4 @@
-# 🚴🏽Biognesys
+# ⚕️Biognesys
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/Biogenesys?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/Biogenesys?style=for-the-badge)
@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"><a href="https://app.powerbi.com/"></a>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><a href="https://excel.cloud.microsoft/"></a>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </ul>
 </details>
 
@@ -35,9 +36,9 @@
   <ul>
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  </ul>
     <a **Seaborn**>
     <a **Matplotlib**>
-  </ul>
 </details>
 
 ## 📁Archivos
