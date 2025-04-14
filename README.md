@@ -10,6 +10,9 @@
 > Hemos realizado un análisis exploratorio de datos junto a técnicas de limpieza de los mismos, con los cuales, realizando diferentes gráficos y visualizaciones, nos encaminaron a entender la incidencia del Covid-19.
 > Con el fin de entender este análisis con mayor profundidad, hemos realizado un dashboard interactivo mediante el cual podremos elegir que datos explorar.
 
+![image](https://github.com/user-attachments/assets/063a240f-d4f9-4e13-a197-e907cd165217)
+![image](https://github.com/user-attachments/assets/fbd2d7ca-a933-40bc-9ab1-80b84e638aee)
+
 
 <!-- TechStack -->
 ## :space_invader: Herramientas
