@@ -2,9 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/Biogenesys?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/Biogenesys?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nikuvi/Biogenesys?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nikuvi/Biogenesys?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/Biogenesys?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/nikuvi/Biogenesys?style=for-the-badge) 
+![GitHub last commit](https://img.shields.io/github/last-commit/nikuvi/Biogenesys?style=for-the-badge)
 
 > El propósito del proyecto se basa en el análisis estratégico de datos con el fin de entender y ayudar a la empresa Biogenesys a expandirse en latinoamérica. 
 > Hemos realizado un análisis exploratorio de datos junto a técnicas de limpieza de los mismos, con los cuales, realizando diferentes gráficos y visualizaciones, nos encaminaron a entender la incidencia del Covid-19.
